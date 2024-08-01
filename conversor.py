@@ -32,7 +32,7 @@ unidades_y_tipos = obtener_unidades_y_tipos_fisicos()
 tipos_fisicos = sorted(unidades_y_tipos.keys())
 
 # Interfaz de usuario de Streamlit
-st.title("Conversor Avanzado de Unidades para Física")
+st.title("Conversor de Unidades para Física")
 
 tipo_fisico = st.selectbox("Seleccione el tipo físico", tipos_fisicos)
 

@@ -52,6 +52,8 @@ if tipo_fisico:
 
 st.sidebar.header("Información")
 st.sidebar.write("Este conversor está diseñado para físicos avanzados utilizando astropy.")
-st.sidebar.write("Puede manejar unidades complejas y proporcionar el tipo físico correspondiente.")
-st.sidebar.write("Ejemplo de uso:")
-st.sidebar.write("- Conversión: 5 'meter' a 'km'")
+st.sidebar.write("- Seleccione el tipo físico de la unidad que desea convertir en el menú desplegable.")
+st.sidebar.write("- Ingrese el valor numérico de la cantidad que desea convertir en el campo de entrada.")
+st.sidebar.write("- Seleccione la unidad de origen y la unidad de destino en los menús desplegables.")
+st.sidebar.write("- Haga clic en el botón 'Convertir' para obtener el resultado de la conversión.")
+st.sidebar.write("- El resultado se mostrará en la sección principal de la aplicación.")

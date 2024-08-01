@@ -2,6 +2,8 @@
 
 Este proyecto es una aplicación web interactiva desarrollada con Streamlit que permite convertir unidades físicas utilizando la biblioteca `astropy`. Está diseñado para físicos avanzados y puede manejar unidades complejas, proporcionando la categoría correspondiente a cada conversión.
 
+![alt text](img/image.png)
+
 ## Características
 
 - **Conversión de Unidades**: Convierte valores entre diferentes unidades físicas compatibles.
@@ -39,8 +41,7 @@ Este proyecto es una aplicación web interactiva desarrollada con Streamlit que 
      - Disfruta de la aplicación!
      - Para cerrar la aplicación, presiona `Ctrl + C` en la terminal.
 
-6. **Contribuir**:
+## Contribuir:
      - Si deseas contribuir a este proyecto, por favor crea un *pull request* con tus sugerencias o mejoras.
      - Si encuentras algún error o problema, por favor crea un *issue* para que pueda ser corregido.
 
-![alt text](img/image.png)

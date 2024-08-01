@@ -18,8 +18,7 @@ Este proyecto es una aplicación web interactiva desarrollada con Streamlit que 
 
 1. **Clonar el repositorio**:
     ```sh
-    git clone https://github.com/tu_usuario/conversor-avanzado-unidades.git
-    cd conversor-avanzado-unidades
+    git clone https://github.com/Vasallo94/UnitsConversor.git
     ````
 2. **Instalar las dependencias**:
     ```sh
